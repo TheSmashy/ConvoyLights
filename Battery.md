@@ -11,7 +11,7 @@ This document outlines the reasoning behind standardizing on specific lithium-io
 | Cell Type | Capacity Range | Voltage | Max Discharge | Used In |
 |-----------|----------------|---------|----------------|---------|
 | 14500     | ~900–1100 mAh  | 3.6–3.7V | 5–10A           | EDC, first aid kits, compact utility lights |
-| 18350     | ~1100–1400 mAh | 3.6–3.7V | 10–15A          | Pocket rockets, short-burst tactical |
+| 18350     | ~1100–1400 mAh | 3.6–3.7V | 10–15A          | EDC, pocket rockets, short-burst tactical |
 | 18650     | ~2500–3500 mAh | 3.6–3.7V | 10–20A          | General lights, power banks, chargers |
 | 21700     | ~4000–5000 mAh | 3.6–3.7V | 15–45A          | Tactical lights, sustained output, multi-emitter lights |
 
