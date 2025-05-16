@@ -16,3 +16,5 @@ Instead of reviewing lights as isolated products, each write-up covers:
 -  **Battery pairings** based on performance intent
 -  **Recommended mode groups, drivers, and emitters**
 -  **Host recommendations** for MCPCB compatibility, thermal profile, and beam goals
+
+**Please read** [Battery Doctrine](https://github.com/TheSmashy/ConvoyLights/blob/main/Battery.md)
