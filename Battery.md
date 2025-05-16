@@ -6,7 +6,7 @@ This document outlines the reasoning behind standardizing on specific lithium-io
 
 ---
 
-## 📦 Cell Overview Table
+## Cell Overview Table
 
 | Cell Type | Capacity Range | Voltage | Max Discharge | Used In |
 |-----------|----------------|---------|----------------|---------|
