@@ -31,7 +31,7 @@ This document outlines the reasoning behind standardizing on specific lithium-io
 
 ### Backup Cells
 - **Energizer L91 (LiFeS2)** – Primary lithium; good shelf life, cold-resistant, no recharge.
-- Stored alongside rechargeables in 4x cases for redundancy.
+- Stored alongside rechargeables in 4x cases for redundancy, e.g. 2x Vapcell F12 + 2x L91.  
 
 ### Field Notes
 - Button tops preferred for compatibility.
