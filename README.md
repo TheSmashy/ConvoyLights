@@ -23,4 +23,4 @@ Instead of reviewing lights as isolated products, each write-up covers:
 
 Looking for the actual flashlight builds?
 
-👉 [Browse the Convoy Doctrine builds](./lights/README.md)
+[Browse the builds](./lights/README.md)
