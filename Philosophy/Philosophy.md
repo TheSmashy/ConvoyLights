@@ -1,4 +1,4 @@
-# 🔦 Convoy Doctrine: Philosophy of Light
+# Convoy Doctrine: Philosophy of Light
 
 This document explains the principles behind my flashlight builds, preferences, and component choices. It's not just about what's in the light — it's about *why* it’s there.
 
@@ -6,7 +6,7 @@ This isn't universal advice — this is *my doctrine*.
 
 ---
 
-## 🔋 Battery First
+## Battery First
 
 Power determines form, runtime, heat, and even LED compatibility. I pick batteries first, based on use case and size constraints.
 
@@ -14,21 +14,21 @@ See [`battery.md`](./battery.md) for deep notes on 18350 vs 18650, cell choice (
 
 ---
 
-## 🌡️ Color Temperature: The 4500K Rule
+## Color Temperature: The 4500K Rule
 
 Most of my lights fall between **4000K–5000K**, with 4500K being the sweet spot.
 
 **Why 4500K?**
 - Enough warmth to be comfortable at night
-- Still feels “neutral white” to the average eye
+- Still feels “neutral white” to the my eye
 - Tints well with 219B, 519A, B35AM without major color shift
 - Avoids the harshness of 5700K+ but keeps more clarity than 3000K
 
-I build a few 3500K or 2700K lights, but those are niche tools — not daily drivers.
+I build a few 3500K lights, but those are niche tools — not daily drivers.
 
 ---
 
-## 🔬 CRI > Lumens (Most of the Time)
+## CRI > Lumens (Most of the Time)
 
 If I can't see colors correctly, it doesn’t matter how bright the hotspot is.
 
@@ -42,25 +42,25 @@ This is why so many of my builds use:
 - **519A**
 - **B35AM**
 
-I only use SST40, SFT40, or CSLNM1 when I’m building for **throw** or **tactical flood** — not for general use.
+I only use SST40, SFT40, or CULPM1 when I’m building for **throw** or **tactical** — not for general use.
 
 ---
 
-## 🧠 EDC Philosophy
+## EDC Philosophy
 
 Lights must be:
-- Comfortable in the pocket (18350 or small 18650 hosts)
+- Comfortable in the pocket (18350 or 14500 hosts)
 - Ready at all times (no lockout headaches)
 - Easy to operate with gloves or in the dark
 
 So I prefer:
 - **Forward or reverse clickies** with simple modes
 - **TIR optics** or **OP reflectors** to smooth the beam
-- **Deep carry clips** that don’t suck
+- **Deep carry clips** that don’t suck.  Really, a bad clip can ruin a great light  
 
 ---
 
-## 💡 Optic Discipline
+## Optic Discipline
 
 I match optics to use case:
 
@@ -73,7 +73,7 @@ I match optics to use case:
 
 ---
 
-## 🛠️ Host Preference
+##  Host Preference
 
 I use mostly **Convoy hosts** because they’re:
 - Modular and predictable
@@ -85,7 +85,7 @@ I use mostly **Convoy hosts** because they’re:
 
 ---
 
-## 🧱 Build Roles
+##  Build Roles
 
 Each light gets a job — no shelf queens. If I build it, it gets used:
 
@@ -97,7 +97,7 @@ Each light gets a job — no shelf queens. If I build it, it gets used:
 
 ---
 
-## 📚 Philosophy Docs
+## Philosophy Docs
 
 - [`battery.md`](./battery.md) — Cell choice, storage voltage, thermal limits
 - [`optics.md`](./optics.md) — (Planned) Beam shaping, pros/cons of optic types
@@ -105,7 +105,7 @@ Each light gets a job — no shelf queens. If I build it, it gets used:
 
 ---
 
-## 🧠 Final Thought
+## Final Thought
 
 I'm not trying to optimize for numbers — I'm optimizing for *experience*.  
 I carry what I love, not just what charts best.
