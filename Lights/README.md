@@ -16,6 +16,9 @@ This directory documents individual builds, sorted by host.
 ### S21 Series
 *(Coming soon)*
 
+### M Series  
+- [M2 SFT40 6500K 8A Buck](./M2-SFT40-6500K-8A-Buck.md)
+
 ---
 
 ## 🧱 Naming Convention
