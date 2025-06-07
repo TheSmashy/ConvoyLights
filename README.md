@@ -19,3 +19,8 @@ Instead of reviewing lights as isolated products, each write-up covers:
 
 **Please read** [Battery Doctrine](https://github.com/TheSmashy/ConvoyLights/blob/main/Battery.md)  
 **Please read** [Definitions](https://github.com/TheSmashy/ConvoyLights/blob/main/Definitions.md)  
+## Build Index
+
+Looking for the actual flashlight builds?
+
+👉 [Browse the Convoy Doctrine builds](./lights/README.md)
