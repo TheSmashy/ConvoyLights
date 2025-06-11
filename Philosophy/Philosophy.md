@@ -66,9 +66,10 @@ I match optics to use case:
 
 | Optic Type | Use Case |
 |------------|----------|
-| Bead TIR (20°) | Daily EDC, indoor work, close flood |
-| Clear TIR | Max output flood, when hotspot isn't needed |
+| Bead TIR (15°) | Daily EDC, indoor work, close flood |
+| Matte TIR | Max output flood, when hotspot isn't needed |
 | OP Reflector | Outdoor walking light, soft throw |
+| Smooth Reflector | Tactical light, tight hotspot |  
 | Mule (no optic) | Color inspection, tent light, close-up work |
 
 ---
@@ -89,11 +90,11 @@ I use mostly **Convoy hosts** because they’re:
 
 Each light gets a job — no shelf queens. If I build it, it gets used:
 
-- **S2+ shorty flood** – indoor, pocket, backup
+- **S2+ 18350 flood** – indoor, pocket, backup
 - **M21B thrower** – perimeter light, yard check
 - **S21D quad** – general search
 - **T3 mule** – desk, map reading, tent
-- **S15** – in-pocket flood with style
+- **S16** – compact throw, procketable 21700
 
 ---
 
